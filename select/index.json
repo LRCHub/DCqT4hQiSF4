@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "蜂と蝶",
+  "base_artist": "SOUL SCREAM",
+  "createdAt": "2025-12-01T12:33:43.377522Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "蜂と蝶",
+      "artist": "SOUL SCREAM",
+      "has_synced": true,
+      "path": "select/01_蜂と蝶_SOUL_SCREAM.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "蜂と蝶",
+      "artist": "SOUL SCREAM",
+      "has_synced": true,
+      "path": "select/02_蜂と蝶_SOUL_SCREAM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "蜂と蝶",
+      "artist": "SOUL SCREAM",
+      "has_synced": false,
+      "path": "select/pl_01_蜂と蝶_SOUL_SCREAM.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "蜂と蝶",
+      "artist": "SOUL SCREAM",
+      "has_synced": false,
+      "path": "select/pl_02_蜂と蝶_SOUL_SCREAM.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "蜂と蝶 (Yohji Igarashi 2024 Remix)",
+      "artist": "SOUL SCREAM",
+      "has_synced": false,
+      "path": "select/pl_03_蜂と蝶_(Yohji_Igarashi_2024_Remix)_SOUL_SCREAM.txt"
+    }
+  ]
+}
